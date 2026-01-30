@@ -1,0 +1,10 @@
+moviepy
+decord 
+imageio[ffmpeg]
+tqdm
+
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
