@@ -32,3 +32,5 @@ desktop.ini
 # Cấu hình riêng của VS Code hoặc PyCharm
 .vscode/
 .idea/
+
+PROJECT_ROADMAP.md
