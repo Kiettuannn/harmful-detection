@@ -33,3 +33,7 @@ desktop.ini
 .vscode/
 .idea/
 
+### --- PROJECT FILES ---
+# Project documentation (work in progress)
+PROJECT_ROADMAP.md
+
